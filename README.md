@@ -15,7 +15,7 @@ The dataset revealed that a small handful of microbial species (also called oper
 
 - Used the D3 library to read in samples.json from the URL https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json.
 
-- Created a dropdown menu to select the OTUs with the first OTUs data on display on the landing page.
+- Created a dropdown menu to select the OTUs with the first OTUs data on display on the landing page of the App.
 
 - Displayed the sample's metadata, i.e., an individual's demographic information.
 
@@ -36,7 +36,9 @@ The dataset revealed that a small handful of microbial species (also called oper
     - Used otu_ids for the marker colors.
     - Used otu_labels for the text values.
 
-
+- Added functionality so that the Metadata updates when a new sample is selected.
+ 
+- Successfully Deployed App to Github Pages.
 
 
 
