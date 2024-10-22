@@ -38,7 +38,8 @@ The dataset revealed that a small handful of microbial species (also called oper
 
 - Added functionality so that the Metadata updates when a new sample is selected.
  
-- Successfully Deployed App to Github Pages.
+- Successfully Deployed App to Github Pages. Link -  https://sshar-del.github.io/belly-button-challenge/
+  
 
 
 
